@@ -4,8 +4,8 @@
 ## Reference
 [Nachos Documentation](https://homes.cs.washington.edu/~tom/nachos/)
 
-## HW1 - System call implementation
+## HW1 - System call 
 
-## HW2 - Scheduling Algorithms implementation
+## HW2 - Scheduling Algorithms 
 
-## HW3 - Virtual Memory implementation
+## HW3 - Virtual Memory 
